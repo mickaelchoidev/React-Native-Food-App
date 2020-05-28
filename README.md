@@ -1,7 +1,7 @@
 
 # React-Native-Food-App
 
-This is a carousel component in a React Native project.
+This is a React Native project where you can have infos about restaurants located in Paris, France.
 
 ## Stack :
 
